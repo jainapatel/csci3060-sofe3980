@@ -1,0 +1,9 @@
+Login successful.
+Logout successful.
+Login successful.
+Action successul. Bank account payment plan was changed.
+Logout successful.
+Login successful.
+$50.00 deposited to Jaina Patel.
+Transaction fee is deducted.
+Logout successful.

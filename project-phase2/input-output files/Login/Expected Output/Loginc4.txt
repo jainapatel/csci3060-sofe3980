@@ -1,0 +1,4 @@
+Login successful.
+Jane Doe account deleted.
+John Doe account enabled.
+$100.00 deposited to James Morrison.

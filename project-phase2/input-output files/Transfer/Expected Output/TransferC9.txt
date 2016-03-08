@@ -1,0 +1,4 @@
+Login succesful.
+Action successful. 
+Transaction fee of $0.10 deducted from Jaina Patel. 
+Transferred $500.00 from Jaina Patel to Khirthana Subramania.

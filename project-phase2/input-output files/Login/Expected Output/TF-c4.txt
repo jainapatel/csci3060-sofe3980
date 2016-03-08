@@ -1,0 +1,7 @@
+10                                     A
+06 Jane Doe             00005 00000000 N
+09 John Doe             00004 10000.00 N
+01 James Morrison       00003 00000.05 S
+04 James Morrison       00003 00100.00 S
+00                                     A 
+

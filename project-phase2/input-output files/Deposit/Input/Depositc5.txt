@@ -1,0 +1,7 @@
+login
+standard
+Jaina Patel
+Deposit
+00001
+125.00
+logout

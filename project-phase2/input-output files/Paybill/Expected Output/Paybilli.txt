@@ -1,0 +1,2 @@
+Action not completed. Enter valid information in valid format.
+Transaction fee not deducted.

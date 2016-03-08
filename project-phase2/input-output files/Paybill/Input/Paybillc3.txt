@@ -1,0 +1,12 @@
+login
+standard
+James Morrison
+Paybill
+00003
+EC
+2000.00
+Paybill
+00003
+CQ
+2500.85
+logout

@@ -1,0 +1,12 @@
+login
+admin
+enable
+Jaina Patel
+logout
+login
+standard
+Jaina Patel
+Withdrawal
+00001
+100.00
+logout

@@ -1,0 +1,2 @@
+Action denied. The receiver account is disabled.
+Transaction fee is not deducted.

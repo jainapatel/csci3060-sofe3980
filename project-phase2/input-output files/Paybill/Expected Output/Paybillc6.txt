@@ -1,0 +1,3 @@
+Login successful.
+Action denied. Amount exceeds account balance.
+Transaction fee not deducted.

@@ -1,0 +1,5 @@
+Login successful.
+Transaction successful. $2000.00 paid to EC.
+Transaction fee deducted.
+Transaction denied. Maximum amount that can be paid to a bill holder is $2000.00 for standard session.
+Transaction fee not deducted.

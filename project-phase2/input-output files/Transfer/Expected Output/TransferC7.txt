@@ -1,0 +1,5 @@
+Action succesful. $500.00 transferred from Jaina Patel to Khirthana Subramania.
+Logout succesful.
+Login succesful.
+Action denied. Deposited funds cannot be transferred until next day.
+Transaction fees are not deducted.

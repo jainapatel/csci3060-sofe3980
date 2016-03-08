@@ -1,0 +1,12 @@
+Deposit
+Jaina Patel
+00001
+500.00
+logout
+login
+admin
+Withdrawal
+Jaina Patel
+00001
+5250.00
+logout

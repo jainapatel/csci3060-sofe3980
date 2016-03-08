@@ -1,0 +1,8 @@
+login
+admin
+Transfer
+Jaina Patel
+00001
+00002
+500.00
+logout

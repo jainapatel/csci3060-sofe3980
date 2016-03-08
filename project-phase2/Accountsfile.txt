@@ -1,0 +1,8 @@
+00001 Jaina Patel          A 05000.00 N
+00002 Khirthana Subramania A 09000.00 S
+00003 James Morrison       A 08000.00 S
+00004 John Doe             D 10000.00 N
+00005 Jane Doe             D 00000.00 N
+00007 Mark                 A 00000.00 N
+00008 John Doe             A 05000.10 N
+      END_OF_FILE

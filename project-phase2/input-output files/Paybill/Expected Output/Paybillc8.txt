@@ -1,0 +1,4 @@
+Login successful.
+Action successful.
+Transaction fee deducted.
+Bill amount $500.00 paid to EC.

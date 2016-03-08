@@ -1,0 +1,6 @@
+login
+admin
+Deposit
+00005
+100.00
+logout

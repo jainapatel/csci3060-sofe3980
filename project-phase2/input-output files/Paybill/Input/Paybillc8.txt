@@ -1,0 +1,8 @@
+login
+standard
+Jaina Patel
+Paybill
+00001
+EC
+500.00
+logout

@@ -1,0 +1,2 @@
+Action denied. The receiver account is not valid in Bank System.
+Transaction fee is not deducted.

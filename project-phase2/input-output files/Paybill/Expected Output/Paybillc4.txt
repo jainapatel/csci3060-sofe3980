@@ -1,0 +1,4 @@
+Login successful.
+Action successful.
+Transaction fee of $0.05 deducted from Khirthana Subramania.
+$500.00 paid to TV.

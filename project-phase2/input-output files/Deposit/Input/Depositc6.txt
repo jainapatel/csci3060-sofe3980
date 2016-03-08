@@ -1,0 +1,7 @@
+login
+standard
+Mark
+00007
+Deposit
+0.05
+logout

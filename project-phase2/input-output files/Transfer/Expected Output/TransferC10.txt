@@ -1,0 +1,3 @@
+Login succesful.
+Action denied. Amount exceeds receiver account balance limit.
+Transaction fee is not deducted.

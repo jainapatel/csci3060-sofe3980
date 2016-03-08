@@ -1,0 +1,2 @@
+Action unsucessful. Transfer amount must be within account balance.
+Transaction fee is not deducted.

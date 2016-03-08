@@ -1,0 +1,9 @@
+login
+standard
+James Morrison
+Transfer
+James Morrison
+00003
+00002
+2000.00
+logout

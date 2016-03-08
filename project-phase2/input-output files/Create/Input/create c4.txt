@@ -1,0 +1,6 @@
+login
+admin
+create
+John Smith
+100000.00
+logout

@@ -1,0 +1,5 @@
+10				       A
+01 Jaina Patel          00001 00000.10 N
+01 Jaina Patel          00001 00000000 N
+04 Jaina Patel		00001 00000.10 N
+00				       A  

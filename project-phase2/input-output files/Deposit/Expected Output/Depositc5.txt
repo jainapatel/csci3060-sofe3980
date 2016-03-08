@@ -1,0 +1,4 @@
+Login successful.
+$125.00 deposited to Jaina Patel.
+Transaction fee deducted.
+Logout successful.

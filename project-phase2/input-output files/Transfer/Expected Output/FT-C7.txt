@@ -1,0 +1,10 @@
+01 Jaina Patel          00001 00000.10 N
+02 Jaina Patel          00001 00500.00 N
+02 Khirthana Subramania 00002 00500.00 S
+00 Jaina Patel          00001 00000.00 N
+10                                     A
+01 Khirthana Subramania 00002 00000.05 S
+02 Khirthana Subramania 00002 00000.00 S
+02 Jaina Patel          00001 00000.00 N
+04 Khirthana Subramania 00002 00000.05 S
+00 				       A

@@ -1,0 +1,4 @@
+Login successful.
+$150.50 deposited to James Morrison.
+Transaction fee deducted.
+Logout successful.

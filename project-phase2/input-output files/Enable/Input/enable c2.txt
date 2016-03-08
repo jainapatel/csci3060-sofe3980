@@ -1,0 +1,5 @@
+login
+admin
+enable
+Peter Piper
+logout

@@ -1,0 +1,7 @@
+login
+standard
+James Morrison
+Withdrawal
+00003
+501.00
+logout

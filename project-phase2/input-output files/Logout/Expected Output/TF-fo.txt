@@ -1,0 +1,4 @@
+10 James Morrison       00003 00000000 S
+01 James Morrison       00003 00000.05 S
+01 James Morrison       00003 00080.00 S
+00 James Morrison       00003 00000000 S

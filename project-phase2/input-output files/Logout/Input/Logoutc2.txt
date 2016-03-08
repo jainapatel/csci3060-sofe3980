@@ -1,0 +1,6 @@
+Login
+standard
+James Morrison
+Logout
+Withdraw
+80.00

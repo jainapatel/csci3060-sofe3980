@@ -1,0 +1,15 @@
+login
+standard
+Jaina Patel
+Deposit
+00001
+80.00
+logout
+login
+standard 
+Jaina Patel
+Paybill
+00001
+TV
+560.00
+logout

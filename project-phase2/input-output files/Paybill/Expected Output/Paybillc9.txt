@@ -1,0 +1,3 @@
+Login successful.
+Action denied. Exceeds the maximum limit allowed for the transaction.
+Transaction fee not deducted.

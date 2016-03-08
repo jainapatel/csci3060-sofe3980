@@ -1,0 +1,4 @@
+Login successful.
+$80.00 deposited to Jaina Patel.
+Action denied. Deposited funds cannot be transferred until next day.
+Logout successful.

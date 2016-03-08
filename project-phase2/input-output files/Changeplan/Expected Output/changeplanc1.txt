@@ -1,0 +1,3 @@
+Login successful.
+Action unsuccessul. Privileged transaction - only accepted when logged in admin mode.
+Logout successful.

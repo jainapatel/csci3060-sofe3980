@@ -1,0 +1,3 @@
+Action denied. The account is not active.
+Tranaction fee is not deducted.
+Logout successful.

@@ -1,0 +1,6 @@
+login successful.
+Please Enter the Name of the Account Holder: 
+Please Enter the Account Number:
+logout successful.
+login successful.
+Insufficient Privileges for this Action, Account is Disabled.

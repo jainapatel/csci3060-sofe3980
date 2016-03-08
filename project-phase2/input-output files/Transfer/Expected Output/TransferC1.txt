@@ -1,0 +1,3 @@
+Login successful. 
+The sender is not currently logged in.
+Transaction fee is not deducted.

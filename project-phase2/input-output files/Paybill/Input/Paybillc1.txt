@@ -1,0 +1,8 @@
+login
+standard
+Jaina Patel
+Paybill
+00003
+CQ
+150.00
+logout

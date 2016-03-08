@@ -1,0 +1,13 @@
+login
+admin
+Delete
+Jane Doe
+00005
+Enable
+John Doe
+00004
+Deposit
+James Morrison
+00003
+100.00
+logout

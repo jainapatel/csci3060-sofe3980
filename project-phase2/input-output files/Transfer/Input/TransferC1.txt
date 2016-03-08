@@ -1,0 +1,9 @@
+login
+standard
+Jaina Patel
+Transfer
+James Morrison
+00003
+00002
+5.00
+logout
