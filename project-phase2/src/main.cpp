@@ -14,16 +14,5 @@ int main(int argc, char **argv) {
 	AccountManager account_manager;
 
 	cout << "Banking System" << endl;
-	cout << "Enter the transaction you want to do this session:" << endl;
-
-	string input;
-	cin >> input;
-
-	if (input == "login") {
-		account_manager.Login();
-	} else {
-		printf("You have to login in order to process transactions\n");
-	}
-
-	return 0;
+	return account_manager.main(argc, argv);
 }
